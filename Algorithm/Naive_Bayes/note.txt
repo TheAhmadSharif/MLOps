@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=PPeaRc-r1OI
+
+
+Conditional Probability:
+
+P(A/B) === P(B/A) x P(A)/ P(B)
+
+jupyter nbextension enable ScrollDown
+http://localhost:8888/notebooks/Desktop/MLOps/Algorithm/K_Means/index.ipynb

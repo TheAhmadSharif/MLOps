@@ -1,0 +1,25 @@
+https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html#sphx-glr-auto-examples-cluster-plot-kmeans-digits-py
+
+https://www.youtube.com/watch?v=EItlUEPCIzM&t=615s
+
+KMeans
+
+Pros
+1. Simple to understand.
+2. Fast to cluster
+3. Widely available
+4. Easy to implement
+
+
+
+
+Cons
+1. Calculate K. It is not scientific. Elbow method is not scientific.
+
+
+
+K-means++
+
+
+
+KMeans(n_clusters=3)
